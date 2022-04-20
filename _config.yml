@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: AR'Ideal
 subtitle:
-description:
+description: 
 keywords:
-author: John Doe
-language:
+author: 
+language: EN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: miho
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
