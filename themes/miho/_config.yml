@@ -129,6 +129,8 @@ baidu_analytics: false
 # google analytics | google分析
 google_analytics: false
 
+show_ad_post: true
+
 # Footer
 
 # Access statistics | “不蒜子”访问量统计
