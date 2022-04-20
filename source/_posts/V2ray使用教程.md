@@ -1,9 +1,10 @@
 ---
 title: V2ray使用教程
-category: /小书匠/日记/2022-04
+category: AR's
 renderNumberedHeading: true
 grammar_cjkRuby: true
 tags: 'v2ray,教程,说明'
+cover_picture: https://img.aavf.cn/img/dhuadanfl22.png
 ---
 
 
