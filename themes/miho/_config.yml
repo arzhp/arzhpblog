@@ -7,11 +7,11 @@ favicon: /favicon.ico
 # Header
 
 # Keywords of your site | 网站关键字
-keywords: MinHow,MinHow's Blog
+keywords: AR's 
 # Head headline | 头部标题
-header_title: MinHow's Blog
+header_title: AR's
 # Head description | 头部描述
-header_description: 一个专注 WEB 开发的技术博客
+header_description: 一个专注自由的博客
 # Link to your logo | logo地址
 logo: images/logo.png
 # Link to your banner_img | 首页banner图地址
@@ -23,15 +23,15 @@ banner_img: images/banner.jpg
 #    target: true         Whether to jump out | 是否跳出
 menu:
   home:
-    title: Home
+    title: 主页
     url: /
     target: false
   archive:
-    title: Archives
+    title: 档案
     url: /archives
     target: false
   user:
-    title: About
+    title: 关于
     url: /about
     target: false
 # Social setting, use to display social information | 社交设置，用来展示社交信息
@@ -41,20 +41,20 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: MinHow
-    url: //minhow.com
+    title: 主页
+    url: //arzhp.com
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //https://github.com/arzhp
     target: true
   weibo:
-    title: Weibo
-    url: //weibo.com/WongMinHo
+    title: 邮箱
+    url: //arzhp.com
     target: true
   twitter:
     title: Twitter
-    url: //twitter.com/huangminhow
+    url: #
     target: true
   #qq:
   #weixin:
