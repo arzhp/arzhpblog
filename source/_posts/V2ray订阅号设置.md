@@ -1,9 +1,10 @@
 ---
 title: V2ray订阅号设置
-category: /小书匠/日记/2022-04
+category: 
 renderNumberedHeading: true
 grammar_cjkRuby: true
 tags: 'AR,V2ray,订阅号'
+cover_picture: https://img.aavf.cn/img/202004230151.png
 ---
 
 

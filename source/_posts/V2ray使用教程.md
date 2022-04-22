@@ -1,6 +1,6 @@
 ---
 title: V2ray使用教程
-category: AR's
+category: 
 renderNumberedHeading: true
 grammar_cjkRuby: true
 tags: 'v2ray,教程,说明'
