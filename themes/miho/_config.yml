@@ -34,6 +34,10 @@ menu:
     title: 关于
     url: /about
     target: false
+  Base:
+    title: 小工具
+    url: /Base
+    target: false
    
 # Social setting, use to display social information | 社交设置，用来展示社交信息
 #  name:                  Font Awesome icon | Font Awesome 图标
