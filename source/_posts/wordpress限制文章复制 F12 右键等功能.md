@@ -10,7 +10,7 @@ tags: 'wordpress,F12'
 # 教程
 
 - 当下浏览器还是很多的，如果你想你的网站内容不被人手工采集的话，你的图片不想被人另存为或下载的话，我们完全可以禁止右键。
-![enter description here](./images/20200919091823323-300x82.webp)
+![enter description here](./images/20200919091823323-300x82_2.webp)
 
 - 将以下代码复制主题文件 footer.php中即可！
 
